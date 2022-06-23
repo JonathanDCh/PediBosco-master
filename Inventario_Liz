@@ -1,0 +1,165 @@
+const InventarioLiz = [
+
+    //-Combos-
+    {
+        NombreProducto: "Pizza personal con refresco",
+        Precio: "2000"
+    },
+    {
+        NombreProducto: "Pinto con huevo",
+        Precio: "2000"
+    },
+    {
+        NombreProducto: "Lazaña con refresco",
+        Precio: "2700"
+    },
+    {
+        NombreProducto: "Casado del dia con refresco",
+        Precio: "2500"
+    },
+
+    //-Productos "Especiales" o de vidriera (Nombre solicitado por la soda)-
+    
+    {
+        NombreProducto: "Rumba",
+        Precio: "100"
+    },
+    {
+        NombreProducto: "Rumba",
+        Precio: "100"
+    },
+    {
+        NombreProducto: "Rumba",
+        Precio: "100"
+    },
+    {
+        NombreProducto: "Rumba",
+        Precio: "100"
+    },
+    {
+        NombreProducto: "Rumba",
+        Precio: "100"
+    },
+    {
+        NombreProducto: "Rumba",
+        Precio: "100"
+    },
+    {
+        NombreProducto: "Rumba",
+        Precio: "100"
+    },
+    {
+        NombreProducto: "Rumba",
+        Precio: "100"
+    },
+    {
+        NombreProducto: "Rumba",
+        Precio: "100"
+    },
+    {
+        NombreProducto: "Rumba",
+        Precio: "100"
+    },
+    {
+        NombreProducto: "Rumba",
+        Precio: "100"
+    },
+    {
+        NombreProducto: "Rumba",
+        Precio: "100"
+    },
+    {
+        NombreProducto: "Rumba",
+        Precio: "100"
+    },
+    {
+        NombreProducto: "Rumba",
+        Precio: "100"
+    },
+    {
+        NombreProducto: "Rumba",
+        Precio: "100"
+    },
+    {
+        NombreProducto: "Rumba",
+        Precio: "100"
+    },
+    {
+        NombreProducto: "Rumba",
+        Precio: "100"
+    },
+    {
+        NombreProducto: "Rumba",
+        Precio: "100"
+    },
+    {
+        NombreProducto: "Rumba",
+        Precio: "100"
+    },
+    {
+        NombreProducto: "Rumba",
+        Precio: "100"
+    },
+    {
+        NombreProducto: "Rumba",
+        Precio: "100"
+    },
+    {
+        NombreProducto: "Rumba",
+        Precio: "100"
+    },
+    {
+        NombreProducto: "Rumba",
+        Precio: "100"
+    },
+    {
+        NombreProducto: "Rumba",
+        Precio: "100"
+    },
+    {
+        NombreProducto: "Rumba",
+        Precio: "100"
+    },
+    {
+        NombreProducto: "Rumba",
+        Precio: "100"
+    },
+    {
+        NombreProducto: "Rumba",
+        Precio: "100"
+    },
+    {
+        NombreProducto: "Rumba",
+        Precio: "100"
+    },
+    {
+        NombreProducto: "Rumba",
+        Precio: "100"
+    },
+    {
+        NombreProducto: "Rumba",
+        Precio: "100"
+    },
+    {
+        NombreProducto: "Rumba",
+        Precio: "100"
+    },
+    {
+        NombreProducto: "Rumba",
+        Precio: "100"
+    },
+    {
+        NombreProducto: "Rumba",
+        Precio: "100"
+    },
+    {
+        NombreProducto: "Rumba",
+        Precio: "100"
+    },
+     {
+        NombreProducto: "Rumba",
+        Precio: "100"
+    },
+
+    
+]
